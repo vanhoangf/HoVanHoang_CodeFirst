@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|d:\\1. cs\\hovanhoang_projectcodefirst\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|solutionrelative:models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|d:\\1. cs\\hovanhoang_projectcodefirst\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|solutionrelative:models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|d:\\1. cs\\hovanhoang_projectcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|d:\\1. cs\\hovanhoang_projectcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|d:\\1. cs\\hovanhoang_projectcodefirst\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,38 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SinhVien.cs",
-              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Models\\SinhVien.cs",
-              "RelativeDocumentMoniker": "Models\\SinhVien.cs",
-              "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Models\\SinhVien.cs",
-              "RelativeToolTip": "Models\\SinhVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T04:22:43.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LopHoc.cs",
-              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Models\\LopHoc.cs",
-              "RelativeDocumentMoniker": "Models\\LopHoc.cs",
-              "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Models\\LopHoc.cs",
-              "RelativeToolTip": "Models\\LopHoc.cs",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T04:21:14.549Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T04:50:04.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:46:31.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T04:20:29.153Z",
               "EditorCaption": ""
