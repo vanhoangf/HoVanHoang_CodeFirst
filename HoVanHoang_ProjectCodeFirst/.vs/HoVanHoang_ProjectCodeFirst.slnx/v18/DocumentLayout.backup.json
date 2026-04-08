@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|d:\\1. cs\\hovanhoang_projectcodefirst\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|solutionrelative:models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|d:\\1. cs\\hovanhoang_projectcodefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|d:\\1. cs\\hovanhoang_projectcodefirst\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|solutionrelative:models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Controllers\\SinhViensController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\SinhViensController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Controllers\\LopHocsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\LopHocsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|d:\\1. cs\\hovanhoang_projectcodefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Migrations\\20260408051351_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260408051351_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|d:\\1. cs\\hovanhoang_projectcodefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|d:\\1. cs\\hovanhoang_projectcodefirst\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F82A7C-06F7-64EC-67E9-221D47E2C681}|HoVanHoang_ProjectCodeFirst.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +50,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SinhVien.cs",
-              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Models\\SinhVien.cs",
-              "RelativeDocumentMoniker": "Models\\SinhVien.cs",
-              "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Models\\SinhVien.cs",
-              "RelativeToolTip": "Models\\SinhVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T04:22:43.669Z",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T05:25:53.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LopHoc.cs",
-              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Models\\LopHoc.cs",
-              "RelativeDocumentMoniker": "Models\\LopHoc.cs",
-              "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Models\\LopHoc.cs",
-              "RelativeToolTip": "Models\\LopHoc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SinhViensController.cs",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Controllers\\SinhViensController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SinhViensController.cs",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Controllers\\SinhViensController.cs",
+              "RelativeToolTip": "Controllers\\SinhViensController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T04:21:14.549Z",
+              "WhenOpened": "2026-04-08T05:23:33.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LopHocsController.cs",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Controllers\\LopHocsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LopHocsController.cs",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Controllers\\LopHocsController.cs",
+              "RelativeToolTip": "Controllers\\LopHocsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:22:42.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260408051351_InitialCreate.cs",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Migrations\\20260408051351_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260408051351_InitialCreate.cs",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Migrations\\20260408051351_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260408051351_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T05:13:51.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T04:50:04.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:46:31.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\1. CS\\HoVanHoang_ProjectCodeFirst\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T04:20:29.153Z",
               "EditorCaption": ""

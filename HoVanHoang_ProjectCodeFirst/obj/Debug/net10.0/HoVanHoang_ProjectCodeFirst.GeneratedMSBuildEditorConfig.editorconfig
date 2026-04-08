@@ -38,12 +38,52 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/LopHocs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/LopHocs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/LopHocs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/LopHocs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/LopHocs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/SinhViens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/SinhViens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/SinhViens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/SinhViens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/SinhViens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/1. CS/HoVanHoang_ProjectCodeFirst/Views/_ViewImports.cshtml]
